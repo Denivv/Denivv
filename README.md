@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Denivv
+- 👀 I’m interested in new projects, currently know Python
+- 🌱 I’m currently learning Django REST framework, JavaScript and C++
+- 💞️ I’m looking to collaborate!
+- 📫 How to reach me d.nazarovdev@yandex.ru or telegram @Deniw
